@@ -52,4 +52,4 @@ jobs:
           app-name: 'weu-dotnetappsrv'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7692A3999A3441118A92A3374F4C59CB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD001FA856A7408E95605E0E6A0AF03A }}
